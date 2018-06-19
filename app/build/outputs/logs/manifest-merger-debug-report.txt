@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ec46d14017a8fda6cb41fc2151f83e03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6b68a1bb7f6e047a30788e04923044ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f66d86b0e0221de52adfe41ab549c344/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9e8c12dbb849a6fff4e1e89b7197b350/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f5961f7d88415e128a4fa2bad4a13306/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1a76faf1051deeee893ec543aa647fbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c96ae9ebfd48ec92a25701582d42d00d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b802fb50f5a27b5b5e4d365381d1758a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c066668c9876513417706007ed64e97f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/08dc67ee1877aefd2b09382277e5c1c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e5b39e771c6f150653c2a0105371666f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e37c89bcd1b4ddb8f434bcaaeb5a1938/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fbaf3bb9433db918cab3f6495fc5f839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f20b2d6172c57abd2f8859a0203bbed2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb53940539d8e218df1e504a6d85562b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0bc9797cf325043f59ac8743c3634647/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8ce5921f350fb503064e7981a4f1e90/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/737d84b92c0881169c22244a4743d315/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f5961f7d88415e128a4fa2bad4a13306/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f5961f7d88415e128a4fa2bad4a13306/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:11:9-32
+	android:roundIcon
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:10:9-42
+	android:allowBackup
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.hp.login.ui.Splash
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:theme
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:16:13-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.hp.login.ui.MainActivity
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:24:19-50
+activity#com.example.hp.login.ui.LoginActivity
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:25:19-51
+activity#com.example.hp.login.ui.MoviesActivity
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:26:19-52
+activity#com.example.hp.login.ui.BookingActivity
+ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:27:9-65
+	android:name
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml:27:19-53
+uses-sdk
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ec46d14017a8fda6cb41fc2151f83e03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ec46d14017a8fda6cb41fc2151f83e03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6b68a1bb7f6e047a30788e04923044ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6b68a1bb7f6e047a30788e04923044ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f66d86b0e0221de52adfe41ab549c344/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f66d86b0e0221de52adfe41ab549c344/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9e8c12dbb849a6fff4e1e89b7197b350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9e8c12dbb849a6fff4e1e89b7197b350/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f5961f7d88415e128a4fa2bad4a13306/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f5961f7d88415e128a4fa2bad4a13306/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1a76faf1051deeee893ec543aa647fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1a76faf1051deeee893ec543aa647fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c96ae9ebfd48ec92a25701582d42d00d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/c96ae9ebfd48ec92a25701582d42d00d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b802fb50f5a27b5b5e4d365381d1758a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b802fb50f5a27b5b5e4d365381d1758a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c066668c9876513417706007ed64e97f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c066668c9876513417706007ed64e97f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/08dc67ee1877aefd2b09382277e5c1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/08dc67ee1877aefd2b09382277e5c1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e5b39e771c6f150653c2a0105371666f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e5b39e771c6f150653c2a0105371666f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e37c89bcd1b4ddb8f434bcaaeb5a1938/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e37c89bcd1b4ddb8f434bcaaeb5a1938/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fbaf3bb9433db918cab3f6495fc5f839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fbaf3bb9433db918cab3f6495fc5f839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f20b2d6172c57abd2f8859a0203bbed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f20b2d6172c57abd2f8859a0203bbed2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb53940539d8e218df1e504a6d85562b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eb53940539d8e218df1e504a6d85562b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0bc9797cf325043f59ac8743c3634647/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0bc9797cf325043f59ac8743c3634647/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8ce5921f350fb503064e7981a4f1e90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8ce5921f350fb503064e7981a4f1e90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/737d84b92c0881169c22244a4743d315/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/trustmub/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/737d84b92c0881169c22244a4743d315/AndroidManifest.xml:20:5-44
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trustmub/Documents/Development/movies-app/Movie-x/app/src/main/AndroidManifest.xml
